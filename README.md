@@ -1,0 +1,1 @@
+# odoo_hide_menu
